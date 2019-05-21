@@ -1,0 +1,357 @@
+2019-04-06 at 00:08:21 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 00:09:19 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 58006 ms
+2019-04-06 at 00:09:39 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 00:09:47 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 7073 ms
+2019-04-06 at 00:09:59 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 00:10:06 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7059 ms
+2019-04-06 at 00:10:07 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 00:10:36 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /task/search_task_by_taskManufactureSn
+2019-04-06 at 00:10:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /task/search_task_by_taskManufactureSn
+2019-04-06 at 00:10:44 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /task/search_task_by_taskManufactureSn
+2019-04-06 at 00:14:31 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 00:14:37 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6485 ms
+2019-04-06 at 00:15:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 00:15:12 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7215 ms
+2019-04-06 at 00:15:13 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 09:51:29 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 09:51:35 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6059 ms
+2019-04-06 at 09:51:37 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 09:51:44 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7009 ms
+2019-04-06 at 09:51:53 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /technologyPlan/get_data
+2019-04-06 at 09:51:53 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /deviceType/get_data
+2019-04-06 at 09:51:53 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /employee/get_data
+2019-04-06 at 09:51:53 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 09:52:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-06 at 09:52:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-06 at 09:52:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-06 at 09:52:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-06 at 09:52:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-06 at 09:52:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-06 at 09:52:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-06 at 09:52:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-06 at 09:52:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-06 at 09:52:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-06 at 09:52:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-06 at 09:52:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-06 at 09:52:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-06 at 09:52:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-06 at 09:52:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-06 at 09:52:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-06 at 09:52:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-06 at 09:52:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-06 at 10:05:30 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:05:36 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5645 ms
+2019-04-06 at 10:06:28 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:06:34 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5906 ms
+2019-04-06 at 10:07:13 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 10:07:18 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5161 ms
+2019-04-06 at 10:19:20 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:19:26 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5728 ms
+2019-04-06 at 10:20:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 10:20:10 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5213 ms
+2019-04-06 at 10:22:27 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:22:33 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5545 ms
+2019-04-06 at 10:22:39 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 10:22:44 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5057 ms
+2019-04-06 at 10:29:18 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:29:25 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6840 ms
+2019-04-06 at 10:29:50 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 10:29:56 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 6023 ms
+2019-04-06 at 10:32:57 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:33:04 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6535 ms
+2019-04-06 at 10:33:19 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 10:33:26 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 6972 ms
+2019-04-06 at 10:36:29 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:36:36 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 7136 ms
+2019-04-06 at 10:36:47 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 10:36:52 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5623 ms
+2019-04-06 at 10:39:33 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:39:40 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6876 ms
+2019-04-06 at 10:45:58 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:46:05 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6919 ms
+2019-04-06 at 10:46:25 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 10:46:32 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 6686 ms
+2019-04-06 at 10:50:15 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:50:20 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5858 ms
+2019-04-06 at 10:50:45 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 10:50:51 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5738 ms
+2019-04-06 at 10:51:54 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:52:01 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6871 ms
+2019-04-06 at 10:52:20 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 10:52:26 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 6267 ms
+2019-04-06 at 10:54:23 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:54:29 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6309 ms
+2019-04-06 at 10:54:51 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 10:54:57 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5658 ms
+2019-04-06 at 10:59:40 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 10:59:46 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5948 ms
+2019-04-06 at 11:00:19 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:00:25 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5504 ms
+2019-04-06 at 11:04:51 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:04:58 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6527 ms
+2019-04-06 at 11:06:19 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:06:25 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5938 ms
+2019-04-06 at 11:06:52 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:06:58 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5618 ms
+2019-04-06 at 11:09:34 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:09:40 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5869 ms
+2019-04-06 at 11:10:47 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:10:53 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5826 ms
+2019-04-06 at 11:11:07 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:11:12 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5672 ms
+2019-04-06 at 11:11:30 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 11:13:50 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:13:56 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5818 ms
+2019-04-06 at 11:14:46 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:14:53 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7101 ms
+2019-04-06 at 11:19:48 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:19:55 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6455 ms
+2019-04-06 at 11:21:07 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:21:21 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 14310 ms
+2019-04-06 at 11:25:35 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:25:41 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6538 ms
+2019-04-06 at 11:26:00 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:26:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5441 ms
+2019-04-06 at 11:35:38 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:35:44 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6497 ms
+2019-04-06 at 11:36:18 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:36:23 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5222 ms
+2019-04-06 at 11:38:06 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:39:09 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 63062 ms
+2019-04-06 at 11:39:30 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:39:37 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6834 ms
+2019-04-06 at 11:39:53 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:40:14 GMT+08:00 WARN  org.springframework.util.xml.SimpleSaxErrorHandler.warning @48 :-> Ignored XML validation warning org.xml.sax.SAXParseException: schema_reference.4: 无法读取方案文档 'https://www.springframework.org/schema/beans/spring-beans.xsd', 原因为 1) 无法找到文档; 2) 无法读取文档; 3) 文档的根元素不是 <xsd:schema>。
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.warning(ErrorHandlerWrapper.java:99) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:392) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:306) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.reportSchemaErr(XSDHandler.java:4160) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.reportSchemaWarning(XSDHandler.java:4151) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.getSchemaDocument1(XSDHandler.java:2493) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.getSchemaDocument(XSDHandler.java:2191) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.parseSchema(XSDHandler.java:576) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaLoader.loadSchema(XMLSchemaLoader.java:613) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.findSchemaGrammar(XMLSchemaValidator.java:2446) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1767) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.startElement(XMLSchemaValidator.java:740) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:374) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl$NSContentDriver.scanRootElementHook(XMLNSDocumentScannerImpl.java:613) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:3132) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:852) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:841) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:770) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243) [?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339) [?:1.8.0_111]
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:77) [spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadDocument(XmlBeanDefinitionReader.java:434) [spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:392) [spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:336) [spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:304) [spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:188) [spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:224) [spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:195) [spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:125) [spring-web-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:94) [spring-web-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:133) [spring-context-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:624) [spring-context-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:520) [spring-context-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:696) [spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:662) [spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:710) [spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:587) [spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:526) [spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:169) [spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158) [servlet-api.jar:3.1.FR]
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:773) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:133) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [catalina.jar:8.5.37]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [catalina.jar:8.5.37]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [catalina.jar:8.5.37]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [catalina.jar:8.5.37]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [catalina.jar:8.5.37]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800) [tomcat-coyote.jar:8.5.37]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-coyote.jar:8.5.37]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806) [tomcat-coyote.jar:8.5.37]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498) [tomcat-coyote.jar:8.5.37]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:8.5.37]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:8.5.37]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[?:1.8.0_111]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79) ~[?:1.8.0_111]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_111]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_111]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_111]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_111]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_111]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_111]
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:668) ~[?:1.8.0_111]
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173) ~[?:1.8.0_111]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180) ~[?:1.8.0_111]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432) ~[?:1.8.0_111]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527) ~[?:1.8.0_111]
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264) ~[?:1.8.0_111]
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367) ~[?:1.8.0_111]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191) ~[?:1.8.0_111]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138) ~[?:1.8.0_111]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1032) ~[?:1.8.0_111]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177) ~[?:1.8.0_111]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1546) ~[?:1.8.0_111]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474) ~[?:1.8.0_111]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:647) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:148) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.opti.SchemaParsingConfig.parse(SchemaParsingConfig.java:582) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.opti.SchemaParsingConfig.parse(SchemaParsingConfig.java:685) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.opti.SchemaDOMParser.parse(SchemaDOMParser.java:530) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.getSchemaDocument(XSDHandler.java:2179) ~[?:1.8.0_111]
+	... 57 more
+
+2019-04-06 at 11:41:01 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:41:08 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 6488 ms
+2019-04-06 at 11:43:14 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:43:21 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6787 ms
+2019-04-06 at 11:43:29 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:43:34 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5350 ms
+2019-04-06 at 11:45:02 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 11:45:09 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 7112 ms
+2019-04-06 at 11:45:14 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 11:45:21 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7150 ms
+2019-04-06 at 11:50:58 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 12:00:05 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 12:00:12 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6330 ms
+2019-04-06 at 12:00:32 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 12:00:37 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5325 ms
+2019-04-06 at 12:04:11 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 12:04:17 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5989 ms
+2019-04-06 at 12:04:38 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 12:04:44 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6474 ms
+2019-04-06 at 12:05:16 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 12:05:24 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 8257 ms
+2019-04-06 at 12:07:59 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 12:08:06 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6786 ms
+2019-04-06 at 12:08:33 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 12:08:39 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5413 ms
+2019-04-06 at 12:11:24 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 12:11:30 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6171 ms
+2019-04-06 at 12:11:53 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 12:12:00 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7143 ms
+2019-04-06 at 12:12:06 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 14:18:38 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 14:18:44 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6256 ms
+2019-04-06 at 14:18:55 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 14:19:00 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5749 ms
+2019-04-06 at 14:20:59 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 14:40:32 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 14:40:39 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6902 ms
+2019-04-06 at 14:42:13 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 14:42:19 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6421 ms
+2019-04-06 at 14:42:30 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 14:42:36 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 6430 ms
+2019-04-06 at 14:42:50 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /process/get_data
+2019-04-06 at 14:42:50 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /deviceList/get_data
+2019-04-06 at 14:42:50 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 14:44:46 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 14:44:52 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6130 ms
+2019-04-06 at 14:45:18 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 14:45:25 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 6579 ms
+2019-04-06 at 14:45:26 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 14:53:30 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 14:53:38 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 7269 ms
+2019-04-06 at 14:54:13 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 14:54:21 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7926 ms
+2019-04-06 at 15:03:34 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 15:03:40 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6424 ms
+2019-04-06 at 15:03:45 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 15:03:51 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5990 ms
+2019-04-06 at 15:06:51 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 15:06:57 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6337 ms
+2019-04-06 at 15:07:06 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 15:07:13 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7285 ms
+2019-04-06 at 15:42:00 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 15:44:05 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 15:44:11 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5808 ms
+2019-04-06 at 15:44:31 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 15:44:38 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7139 ms
+2019-04-06 at 15:46:57 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 15:47:03 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6274 ms
+2019-04-06 at 15:47:17 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 15:47:32 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 14633 ms
+2019-04-06 at 15:47:33 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 15:49:04 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 15:49:10 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6053 ms
+2019-04-06 at 15:49:35 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 15:49:43 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7721 ms
+2019-04-06 at 15:51:05 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 15:51:11 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6098 ms
+2019-04-06 at 15:51:58 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 15:52:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7375 ms
+2019-04-06 at 15:54:32 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 15:57:40 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 15:57:47 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6337 ms
+2019-04-06 at 15:58:07 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 15:58:14 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6620 ms
+2019-04-06 at 15:58:59 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 15:59:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 6537 ms
+2019-04-06 at 16:01:10 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 16:01:16 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6096 ms
+2019-04-06 at 16:01:35 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 16:01:42 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 6899 ms
+2019-04-06 at 16:02:41 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 16:18:35 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 16:18:41 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5882 ms
+2019-04-06 at 16:19:15 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 16:19:23 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7638 ms
+2019-04-06 at 16:20:58 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 16:21:04 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5855 ms
+2019-04-06 at 16:21:22 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 16:21:33 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 10941 ms
+2019-04-06 at 16:21:34 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 16:24:26 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 16:24:33 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6188 ms
+2019-04-06 at 16:24:57 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 16:25:04 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7579 ms
+2019-04-06 at 16:25:05 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 16:30:20 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 16:30:26 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5927 ms
+2019-04-06 at 16:30:38 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 16:30:43 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5301 ms
+2019-04-06 at 16:30:44 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 16:36:39 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 16:37:21 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 42308 ms
+2019-04-06 at 16:38:09 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 16:38:17 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7640 ms
+2019-04-06 at 16:38:17 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 16:53:21 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 16:53:27 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6136 ms
+2019-04-06 at 16:53:59 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 16:54:07 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7717 ms
+2019-04-06 at 16:55:27 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 16:55:33 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5896 ms
+2019-04-06 at 16:55:45 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 16:55:51 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5840 ms
+2019-04-06 at 16:58:46 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 16:58:52 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5914 ms
+2019-04-06 at 16:59:21 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 16:59:27 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5776 ms
+2019-04-06 at 16:59:28 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-06 at 19:56:30 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 19:56:38 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 7678 ms
+2019-04-06 at 19:56:45 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 19:56:54 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 8994 ms
+2019-04-06 at 20:01:04 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-06 at 20:01:10 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6356 ms
+2019-04-06 at 20:01:23 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-06 at 20:01:29 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5954 ms
+2019-04-06 at 20:01:49 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited

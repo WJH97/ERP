@@ -1,0 +1,1 @@
+2019-05-12 at 23:15:48 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set

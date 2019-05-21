@@ -1,0 +1,83 @@
+2019-04-06 at 00:10:07 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 00:15:13 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 09:51:53 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 11:11:30 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 11:40:15 GMT+08:00 ERROR org.springframework.web.servlet.FrameworkServlet.initServletBean @530 :-> Context initialization failed org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 9 in XML document from class path resource [application-web.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 9; columnNumber: 112; cvc-elt.1: 找不到元素 'beans' 的声明。
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:404) ~[spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:336) ~[spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:304) ~[spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:188) ~[spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:224) ~[spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:195) ~[spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:125) ~[spring-web-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:94) ~[spring-web-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:133) ~[spring-context-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:624) ~[spring-context-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:520) ~[spring-context-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:696) ~[spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:662) ~[spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:710) ~[spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:587) ~[spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:526) [spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:169) [spring-webmvc-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158) [servlet-api.jar:3.1.FR]
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:773) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:133) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [catalina.jar:8.5.37]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [catalina.jar:8.5.37]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [catalina.jar:8.5.37]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650) [catalina.jar:8.5.37]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [catalina.jar:8.5.37]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [catalina.jar:8.5.37]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800) [tomcat-coyote.jar:8.5.37]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-coyote.jar:8.5.37]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806) [tomcat-coyote.jar:8.5.37]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498) [tomcat-coyote.jar:8.5.37]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:8.5.37]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:8.5.37]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+Caused by: org.xml.sax.SAXParseException: cvc-elt.1: 找不到元素 'beans' 的声明。
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.error(ErrorHandlerWrapper.java:134) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:396) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1900) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.startElement(XMLSchemaValidator.java:740) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:374) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl$NSContentDriver.scanRootElementHook(XMLNSDocumentScannerImpl.java:613) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:3132) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:852) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:841) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:770) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243) ~[?:1.8.0_111]
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339) ~[?:1.8.0_111]
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:77) ~[spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadDocument(XmlBeanDefinitionReader.java:434) ~[spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:392) ~[spring-beans-5.1.0.RELEASE.jar:5.1.0.RELEASE]
+	... 37 more
+
+2019-04-06 at 11:50:58 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 12:12:06 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 14:20:59 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 14:42:50 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 14:45:26 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 15:42:00 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 15:47:33 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 15:54:32 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 16:02:41 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 16:21:34 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 16:25:05 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 16:30:44 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 16:38:17 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 16:59:28 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set
+2019-04-06 at 20:01:49 GMT+08:00 ERROR com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.error @52 :-> testWhileIdle is true, validationQuery not set

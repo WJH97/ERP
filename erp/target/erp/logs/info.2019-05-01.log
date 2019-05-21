@@ -1,0 +1,5 @@
+2019-05-01 at 14:50:08 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-05-01 at 14:50:16 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 7805 ms
+2019-05-01 at 14:50:25 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-05-01 at 14:50:32 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 7109 ms
+2019-05-01 at 14:50:49 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited

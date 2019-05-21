@@ -1,0 +1,616 @@
+2019-04-04 at 11:54:29 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 11:54:35 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5380 ms
+2019-04-04 at 11:54:37 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 11:54:43 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5466 ms
+2019-04-04 at 11:54:54 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 11:58:36 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 11:58:41 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5103 ms
+2019-04-04 at 12:00:57 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 12:01:04 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 6349 ms
+2019-04-04 at 12:01:06 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 12:01:07 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 12:01:07 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 12:01:07 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 12:01:07 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 12:01:07 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 12:01:07 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 12:01:07 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 12:01:07 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 12:01:07 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 12:01:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/add_judge
+2019-04-04 at 13:48:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/add_judge
+2019-04-04 at 13:49:17 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 13:49:22 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5072 ms
+2019-04-04 at 13:49:40 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 13:49:44 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3684 ms
+2019-04-04 at 13:49:44 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/add
+2019-04-04 at 13:52:37 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 13:52:42 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4902 ms
+2019-04-04 at 13:52:52 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 13:52:56 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3376 ms
+2019-04-04 at 13:52:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /custom/get_data
+2019-04-04 at 13:52:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /product/get_data
+2019-04-04 at 13:53:02 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/get_data
+2019-04-04 at 14:06:43 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 14:06:48 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4762 ms
+2019-04-04 at 14:07:32 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 14:07:36 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3478 ms
+2019-04-04 at 14:07:50 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/get_data
+2019-04-04 at 14:08:45 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 14:08:51 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5335 ms
+2019-04-04 at 14:09:43 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 14:09:48 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4088 ms
+2019-04-04 at 14:10:21 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 14:10:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 14:10:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 14:10:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 14:10:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 14:10:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 14:10:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 14:10:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 14:10:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 14:10:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 14:10:24 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /product/get_data
+2019-04-04 at 14:12:41 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/get_data
+2019-04-04 at 14:22:23 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 14:22:28 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4831 ms
+2019-04-04 at 14:22:45 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 14:22:48 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3545 ms
+2019-04-04 at 14:24:17 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 14:24:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 14:24:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 14:24:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 14:24:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 14:24:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 14:24:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 14:24:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 14:24:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 14:24:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 14:25:14 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690746043.jpg
+2019-04-04 at 14:25:14 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690868341.jpg
+2019-04-04 at 14:25:14 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690928873.jpg
+2019-04-04 at 14:25:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 14:25:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 14:25:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 14:25:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 14:25:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 14:25:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 14:25:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 14:25:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 14:25:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 15:52:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/get/001
+2019-04-04 at 15:52:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/get/001
+2019-04-04 at 15:54:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/get/001
+2019-04-04 at 15:54:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/get/001
+2019-04-04 at 15:54:53 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/get/00002
+2019-04-04 at 16:22:41 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 16:22:46 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5257 ms
+2019-04-04 at 16:23:29 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 16:23:32 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3787 ms
+2019-04-04 at 16:34:42 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 16:34:48 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6160 ms
+2019-04-04 at 16:35:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 16:35:09 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4186 ms
+2019-04-04 at 16:35:15 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 16:35:17 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 16:35:17 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 16:35:17 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 16:35:17 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 16:35:17 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 16:35:17 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 16:35:17 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 16:35:17 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 16:35:17 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 16:35:56 GMT+08:00 WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException @140 :-> Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 2 errors
+Field error in object 'customOrder' on field 'orderDate': rejected value [2019-04-04 00:00:00]; codes [typeMismatch.customOrder.orderDate,typeMismatch.orderDate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customOrder.orderDate,orderDate]; arguments []; default message [orderDate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'orderDate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2019-04-04 00:00:00'; nested exception is java.lang.IllegalArgumentException]
+Field error in object 'customOrder' on field 'requestDate': rejected value [2019-04-04 00:00:00]; codes [typeMismatch.customOrder.requestDate,typeMismatch.requestDate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customOrder.requestDate,requestDate]; arguments []; default message [requestDate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'requestDate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2019-04-04 00:00:00'; nested exception is java.lang.IllegalArgumentException]]
+2019-04-04 at 17:01:16 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:01:21 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5231 ms
+2019-04-04 at 17:01:48 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:01:52 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4186 ms
+2019-04-04 at 17:01:52 GMT+08:00 WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException @140 :-> Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 2 errors
+Field error in object 'customOrder' on field 'orderDate': rejected value [2019-04-04 00:00:00]; codes [typeMismatch.customOrder.orderDate,typeMismatch.orderDate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customOrder.orderDate,orderDate]; arguments []; default message [orderDate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'orderDate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2019-04-04 00:00:00'; nested exception is java.lang.IllegalArgumentException]
+Field error in object 'customOrder' on field 'requestDate': rejected value [2019-04-04 00:00:00]; codes [typeMismatch.customOrder.requestDate,typeMismatch.requestDate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customOrder.requestDate,requestDate]; arguments []; default message [requestDate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'requestDate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2019-04-04 00:00:00'; nested exception is java.lang.IllegalArgumentException]]
+2019-04-04 at 17:02:55 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:03:01 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5434 ms
+2019-04-04 at 17:03:16 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:03:20 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3688 ms
+2019-04-04 at 17:03:20 GMT+08:00 WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException @140 :-> Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 2 errors
+Field error in object 'customOrder' on field 'orderDate': rejected value [2019-04-04 00:00:00]; codes [typeMismatch.customOrder.orderDate,typeMismatch.orderDate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customOrder.orderDate,orderDate]; arguments []; default message [orderDate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'orderDate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2019-04-04 00:00:00'; nested exception is java.lang.IllegalArgumentException]
+Field error in object 'customOrder' on field 'requestDate': rejected value [2019-04-04 00:00:00]; codes [typeMismatch.customOrder.requestDate,typeMismatch.requestDate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customOrder.requestDate,requestDate]; arguments []; default message [requestDate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'requestDate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2019-04-04 00:00:00'; nested exception is java.lang.IllegalArgumentException]]
+2019-04-04 at 17:06:29 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:06:36 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6217 ms
+2019-04-04 at 17:06:45 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:06:49 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4010 ms
+2019-04-04 at 17:06:56 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 17:06:58 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 17:06:58 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 17:06:58 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 17:06:58 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 17:06:58 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 17:06:58 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 17:06:58 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 17:06:58 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 17:06:58 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 17:07:36 GMT+08:00 WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException @140 :-> Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 2 errors
+Field error in object 'customOrder' on field 'orderDate': rejected value [2019-04-04 00:00:00]; codes [typeMismatch.customOrder.orderDate,typeMismatch.orderDate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customOrder.orderDate,orderDate]; arguments []; default message [orderDate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'orderDate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2019-04-04 00:00:00'; nested exception is java.lang.IllegalArgumentException]
+Field error in object 'customOrder' on field 'requestDate': rejected value [2019-04-04 00:00:00]; codes [typeMismatch.customOrder.requestDate,typeMismatch.requestDate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customOrder.requestDate,requestDate]; arguments []; default message [requestDate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'requestDate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2019-04-04 00:00:00'; nested exception is java.lang.IllegalArgumentException]]
+2019-04-04 at 17:11:15 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:11:22 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 7281 ms
+2019-04-04 at 17:11:44 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:11:48 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3927 ms
+2019-04-04 at 17:11:59 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 17:12:01 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 17:12:01 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 17:12:01 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 17:12:01 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 17:12:01 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 17:12:01 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 17:12:01 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 17:12:01 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 17:12:01 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 17:17:41 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690746043.jpg
+2019-04-04 at 17:17:41 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690868341.jpg
+2019-04-04 at 17:17:41 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690928873.jpg
+2019-04-04 at 17:17:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 17:17:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 17:17:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 17:17:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 17:17:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 17:17:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 17:17:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 17:17:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 17:17:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 17:17:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 17:17:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 17:17:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 17:17:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 17:17:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 17:17:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 17:17:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 17:17:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 17:17:49 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 17:17:52 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690746043.jpg
+2019-04-04 at 17:17:52 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690868341.jpg
+2019-04-04 at 17:17:52 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690928873.jpg
+2019-04-04 at 17:18:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 17:18:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 17:18:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 17:18:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 17:18:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 17:18:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 17:18:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 17:18:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 17:18:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 17:18:24 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690868341.jpg
+2019-04-04 at 17:18:24 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690928873.jpg
+2019-04-04 at 17:18:24 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690746043.jpg
+2019-04-04 at 17:18:26 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 17:18:26 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 17:18:26 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 17:18:26 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 17:18:26 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 17:18:26 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 17:18:26 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 17:18:26 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 17:18:26 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 17:18:30 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690746043.jpg
+2019-04-04 at 17:18:30 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690928873.jpg
+2019-04-04 at 17:18:30 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690868341.jpg
+2019-04-04 at 17:18:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 17:18:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 17:18:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 17:18:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 17:18:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 17:18:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 17:18:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 17:18:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 17:18:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 17:18:54 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/edit_judge
+2019-04-04 at 17:21:12 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:21:17 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5291 ms
+2019-04-04 at 17:21:46 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:21:50 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4008 ms
+2019-04-04 at 17:21:50 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/edit
+2019-04-04 at 17:24:45 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/edit
+2019-04-04 at 17:25:44 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:25:49 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5290 ms
+2019-04-04 at 17:26:25 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:26:29 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3847 ms
+2019-04-04 at 17:26:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 17:26:31 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 17:28:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /order/update_all
+2019-04-04 at 17:36:07 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:36:12 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4984 ms
+2019-04-04 at 17:36:36 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:36:40 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3963 ms
+2019-04-04 at 17:36:41 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 17:36:42 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690928873.jpg
+2019-04-04 at 17:36:42 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690868341.jpg
+2019-04-04 at 17:36:42 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690746043.jpg
+2019-04-04 at 17:38:41 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:38:46 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4957 ms
+2019-04-04 at 17:39:02 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:39:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3743 ms
+2019-04-04 at 17:39:06 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 17:39:10 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690746043.jpg
+2019-04-04 at 17:39:10 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690868341.jpg
+2019-04-04 at 17:39:10 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690928873.jpg
+2019-04-04 at 17:39:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /order/delete_batch
+2019-04-04 at 17:39:42 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/delete_batch
+2019-04-04 at 17:53:48 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:53:54 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5320 ms
+2019-04-04 at 17:54:45 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:54:49 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3592 ms
+2019-04-04 at 17:54:51 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /order/delete_batch
+2019-04-04 at 17:55:36 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:55:41 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5096 ms
+2019-04-04 at 17:55:57 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:56:02 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4478 ms
+2019-04-04 at 17:56:04 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 17:57:22 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 17:57:27 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5380 ms
+2019-04-04 at 17:57:44 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 17:57:48 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3813 ms
+2019-04-04 at 17:57:50 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 17:57:53 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690928873.jpg
+2019-04-04 at 17:57:53 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690868341.jpg
+2019-04-04 at 17:57:53 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690746043.jpg
+2019-04-04 at 17:58:06 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/find
+2019-04-04 at 17:58:12 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/find
+2019-04-04 at 18:19:47 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/find
+2019-04-04 at 18:19:52 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/find
+2019-04-04 at 18:20:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderId
+2019-04-04 at 18:20:46 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderId
+2019-04-04 at 18:20:54 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderCustom
+2019-04-04 at 18:22:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderCustom
+2019-04-04 at 18:22:46 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderId
+2019-04-04 at 18:23:20 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderCustom
+2019-04-04 at 18:23:40 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderProduct
+2019-04-04 at 18:24:02 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderProduct
+2019-04-04 at 18:43:43 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 18:43:48 GMT+08:00 WARN  org.springframework.context.support.AbstractApplicationContext.refresh @556 :-> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customOrderController': Unsatisfied dependency expressed through field 'customOrderService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customOrderServiceImpl': Unsatisfied dependency expressed through field 'customOrderMapper'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'customOrderMapper' defined in file [C:\Users\10625\IdeaProjects\projectFramework\project2\erp\target\erp\WEB-INF\classes\com\erp\web4j\mapper\CustomOrderMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'com/erp/web4j/mapper/CustomOrderMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'LazyLoadResultMap'.  Cause: java.lang.ClassNotFoundException: Cannot find class: LazyLoadResultMap
+2019-04-04 at 18:44:39 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 18:44:44 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5184 ms
+2019-04-04 at 18:45:02 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 18:45:06 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4030 ms
+2019-04-04 at 18:45:06 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderProduct
+2019-04-04 at 18:45:13 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/find
+2019-04-04 at 18:45:16 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 18:45:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 18:45:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 18:45:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 18:45:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 18:45:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 18:45:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 18:45:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 18:45:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 18:45:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 18:51:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 18:51:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 18:51:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 18:51:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 18:51:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 18:51:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 18:51:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 18:51:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 18:51:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 18:52:09 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 18:52:15 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5342 ms
+2019-04-04 at 18:52:49 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 18:53:55 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 66082 ms
+2019-04-04 at 18:53:55 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/find
+2019-04-04 at 18:53:55 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/find
+2019-04-04 at 18:53:56 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 18:54:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 18:54:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 18:54:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 18:54:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 18:54:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 18:54:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 18:54:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 18:54:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 18:54:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 18:55:55 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 18:56:00 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5430 ms
+2019-04-04 at 18:56:29 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 18:56:34 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4521 ms
+2019-04-04 at 18:56:35 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 18:56:37 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 18:56:42 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 18:57:09 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderCustom
+2019-04-04 at 18:57:11 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderCustom
+2019-04-04 at 19:02:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 19:39:41 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 19:39:47 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5784 ms
+2019-04-04 at 19:40:01 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 19:40:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4466 ms
+2019-04-04 at 19:40:06 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 19:40:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 19:40:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 19:40:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 19:40:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 19:40:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 19:41:12 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 19:41:12 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 19:41:12 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 19:41:12 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 19:41:12 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 19:41:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 19:41:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 19:41:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 19:41:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690746043.jpg
+2019-04-04 at 19:41:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690868341.jpg
+2019-04-04 at 19:41:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482550690928873.jpg
+2019-04-04 at 19:41:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 19:41:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 19:41:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 19:41:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 19:41:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 19:41:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 19:41:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 19:41:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 19:41:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 19:41:55 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderProduct
+2019-04-04 at 19:42:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /order/search_order_by_orderProduct
+2019-04-04 at 19:48:52 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 19:48:58 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6129 ms
+2019-04-04 at 19:49:33 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 19:49:38 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4210 ms
+2019-04-04 at 19:49:39 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 19:49:50 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 19:49:50 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 19:49:50 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 19:49:50 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 19:50:23 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/find
+2019-04-04 at 20:05:32 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:05:37 GMT+08:00 WARN  org.springframework.context.support.AbstractApplicationContext.refresh @556 :-> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customController': Unsatisfied dependency expressed through field 'customService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customServiceImpl': Unsatisfied dependency expressed through field 'customMapper'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'customMapper' defined in file [C:\Users\10625\IdeaProjects\projectFramework\project2\erp\target\erp\WEB-INF\classes\com\erp\web4j\mapper\CustomMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'com/erp/web4j/mapper/CustomMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'BaseResultMap'.  Cause: java.lang.ClassNotFoundException: Cannot find class: BaseResultMap
+2019-04-04 at 20:06:17 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:06:22 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4874 ms
+2019-04-04 at 20:06:41 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 20:06:45 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3990 ms
+2019-04-04 at 20:06:45 GMT+08:00 WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException @140 :-> Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required Integer parameter 'page' is not present]
+2019-04-04 at 20:08:46 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:08:52 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5434 ms
+2019-04-04 at 20:09:08 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 20:09:12 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3872 ms
+2019-04-04 at 20:09:14 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/list
+2019-04-04 at 20:10:07 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:10:12 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5157 ms
+2019-04-04 at 20:10:30 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 20:10:34 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3795 ms
+2019-04-04 at 20:10:35 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 20:12:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/add
+2019-04-04 at 20:14:19 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:14:24 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5661 ms
+2019-04-04 at 20:14:36 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 20:14:40 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3830 ms
+2019-04-04 at 20:15:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /custom/insert
+2019-04-04 at 20:29:07 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:29:12 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5686 ms
+2019-04-04 at 20:29:46 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 20:29:50 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4150 ms
+2019-04-04 at 20:29:50 GMT+08:00 WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException @140 :-> Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required Custom parameter 'custom' is not present]
+2019-04-04 at 20:30:39 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:30:44 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5043 ms
+2019-04-04 at 20:31:15 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 20:31:19 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3727 ms
+2019-04-04 at 20:31:20 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 20:45:46 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:45:51 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5105 ms
+2019-04-04 at 20:46:03 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 20:46:07 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3941 ms
+2019-04-04 at 20:46:08 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 20:46:55 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/edit
+2019-04-04 at 20:48:54 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:48:59 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5399 ms
+2019-04-04 at 20:49:10 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 20:49:14 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3795 ms
+2019-04-04 at 20:49:26 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /custom/update_all
+2019-04-04 at 20:56:01 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:56:06 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5459 ms
+2019-04-04 at 20:56:35 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 20:56:39 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3695 ms
+2019-04-04 at 20:56:40 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 20:58:16 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 20:58:22 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6026 ms
+2019-04-04 at 20:58:27 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 20:58:31 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3853 ms
+2019-04-04 at 20:58:32 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 20:58:58 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /custom/delete_batch
+2019-04-04 at 21:19:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 21:19:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 21:19:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 21:19:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 21:19:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 21:19:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 21:19:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 21:19:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 21:19:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 21:19:20 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/get/001
+2019-04-04 at 21:23:14 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 21:24:31 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 76648 ms
+2019-04-04 at 21:24:51 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 21:24:57 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5808 ms
+2019-04-04 at 21:25:04 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 21:25:09 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4265 ms
+2019-04-04 at 21:25:17 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 21:25:19 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 21:25:19 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 21:25:19 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 21:25:19 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 21:25:19 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 21:25:19 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 21:25:19 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 21:25:19 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 21:25:19 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 21:27:32 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 21:27:37 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5292 ms
+2019-04-04 at 21:27:45 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 21:27:50 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4813 ms
+2019-04-04 at 21:28:18 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 21:28:39 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/find
+2019-04-04 at 21:28:46 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/search_custom_by_customId
+2019-04-04 at 21:28:51 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/search_custom_by_customId
+2019-04-04 at 21:41:45 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 21:41:50 GMT+08:00 WARN  org.springframework.context.support.AbstractApplicationContext.refresh @556 :-> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customController': Unsatisfied dependency expressed through field 'customService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customServiceImpl': Unsatisfied dependency expressed through field 'customMapper'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'customMapper' defined in file [C:\Users\10625\IdeaProjects\projectFramework\project2\erp\target\erp\WEB-INF\classes\com\erp\web4j\mapper\CustomMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'com/erp/web4j/mapper/CustomMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'BaseResultMap'.  Cause: java.lang.ClassNotFoundException: Cannot find class: BaseResultMap
+2019-04-04 at 22:00:47 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:00:53 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5674 ms
+2019-04-04 at 22:03:47 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 22:03:52 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4139 ms
+2019-04-04 at 22:05:11 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 22:07:51 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:07:56 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4996 ms
+2019-04-04 at 22:08:12 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 22:08:17 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 5386 ms
+2019-04-04 at 22:08:17 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/find
+2019-04-04 at 22:11:24 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:11:30 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5052 ms
+2019-04-04 at 22:11:41 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 22:11:45 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3766 ms
+2019-04-04 at 22:12:46 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:12:51 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5378 ms
+2019-04-04 at 22:13:52 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 22:13:56 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4356 ms
+2019-04-04 at 22:14:31 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:14:36 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5000 ms
+2019-04-04 at 22:15:20 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 22:16:00 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 40504 ms
+2019-04-04 at 22:16:00 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/find
+2019-04-04 at 22:16:01 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 22:17:09 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/search_custom_by_customName
+2019-04-04 at 22:17:12 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/search_custom_by_customName
+2019-04-04 at 22:24:35 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:24:40 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5340 ms
+2019-04-04 at 22:25:01 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 22:25:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4444 ms
+2019-04-04 at 22:25:06 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 22:25:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503381808161.jpg
+2019-04-04 at 22:25:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1475828588950644.jpg
+2019-04-04 at 22:25:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482200618621182.jpg
+2019-04-04 at 22:25:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451298442216.jpg
+2019-04-04 at 22:25:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1477451098214311.jpg
+2019-04-04 at 22:25:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482199096212082.jpg
+2019-04-04 at 22:25:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503531511671.jpg
+2019-04-04 at 22:25:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420364321.jpg
+2019-04-04 at 22:25:35 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482503420441752.jpg
+2019-04-04 at 22:25:39 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/get/001
+2019-04-04 at 22:25:42 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /custom/get/001
+2019-04-04 at 22:31:05 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:31:10 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4921 ms
+2019-04-04 at 22:35:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 22:35:09 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3914 ms
+2019-04-04 at 22:35:09 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 22:35:43 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/find
+2019-04-04 at 22:36:07 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /work/find
+2019-04-04 at 22:36:10 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/find
+2019-04-04 at 22:36:18 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /task/find
+2019-04-04 at 22:36:19 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /manufacture/find
+2019-04-04 at 22:36:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /task/find
+2019-04-04 at 22:36:22 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/find
+2019-04-04 at 22:36:27 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/find
+2019-04-04 at 22:36:30 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/find
+2019-04-04 at 22:38:31 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:38:36 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5637 ms
+2019-04-04 at 22:38:47 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 22:38:51 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4289 ms
+2019-04-04 at 22:38:52 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/list
+2019-04-04 at 22:52:52 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:52:57 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5044 ms
+2019-04-04 at 22:53:25 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 22:53:29 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3649 ms
+2019-04-04 at 22:54:08 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:54:13 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5091 ms
+2019-04-04 at 22:55:28 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 22:55:31 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3874 ms
+2019-04-04 at 22:55:33 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482320293986747.png
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482319916209646.png
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321862758014.png
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482320425582171.png
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321245928113.png
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321246031842.png
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1479522851948209.jpg
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286806302546.jpg
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286806231225.jpg
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1479522852056749.jpg
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321612488579.jpg
+2019-04-04 at 22:55:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286795616255.jpg
+2019-04-04 at 22:59:05 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 22:59:10 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5242 ms
+2019-04-04 at 23:23:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 23:23:10 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4840 ms
+2019-04-04 at 23:23:25 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 23:26:08 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 23:26:13 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5173 ms
+2019-04-04 at 23:26:32 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 23:26:38 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5846 ms
+2019-04-04 at 23:26:47 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 23:26:51 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3979 ms
+2019-04-04 at 23:26:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /task/find
+2019-04-04 at 23:27:02 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482320293986747.png
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482319916209646.png
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321862758014.png
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321246031842.png
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482320425582171.png
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321245928113.png
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1479522851948209.jpg
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321612488579.jpg
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1479522852056749.jpg
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286806302546.jpg
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286806231225.jpg
+2019-04-04 at 23:27:04 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286795616255.jpg
+2019-04-04 at 23:27:10 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/add
+2019-04-04 at 23:28:34 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 23:28:39 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5147 ms
+2019-04-04 at 23:28:52 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 23:28:56 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4230 ms
+2019-04-04 at 23:28:56 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/add
+2019-04-04 at 23:29:36 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 23:29:41 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5432 ms
+2019-04-04 at 23:30:00 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 23:30:05 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4709 ms
+2019-04-04 at 23:30:13 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482320293986747.png
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482319916209646.png
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482320425582171.png
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321245928113.png
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321246031842.png
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321862758014.png
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286806302546.jpg
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1479522851948209.jpg
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286795616255.jpg
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286806231225.jpg
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321612488579.jpg
+2019-04-04 at 23:30:15 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1479522852056749.jpg
+2019-04-04 at 23:31:34 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /product/insert
+2019-04-04 at 23:43:38 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 23:43:44 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6078 ms
+2019-04-04 at 23:43:51 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 23:43:55 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3999 ms
+2019-04-04 at 23:43:55 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321245928113.png
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482320293986747.png
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482320425582171.png
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482319916209646.png
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321862758014.png
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321246031842.png
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1479522852056749.jpg
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1479522851948209.jpg
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286806231225.jpg
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482321612488579.jpg
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286795616255.jpg
+2019-04-04 at 23:43:57 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482286806302546.jpg
+2019-04-04 at 23:46:06 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 23:46:11 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5291 ms
+2019-04-04 at 23:46:23 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 23:46:27 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 4223 ms
+2019-04-04 at 23:46:27 GMT+08:00 INFO  com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info @101 :-> {dataSource-1} inited
+2019-04-04 at 23:46:59 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /product/edit
+2019-04-04 at 23:48:23 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-04-04 at 23:48:29 GMT+08:00 INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5757 ms
+2019-04-04 at 23:48:34 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @521 :-> Initializing Servlet 'dispatcherServlet'
+2019-04-04 at 23:48:38 GMT+08:00 INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @543 :-> Completed initialization in 3746 ms
+2019-04-04 at 23:48:39 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for GET /pic/1482320293986747.png
+2019-04-04 at 23:49:31 GMT+08:00 WARN  org.springframework.web.servlet.DispatcherServlet.noHandlerFound @1248 :-> No mapping for POST /product/update_all
